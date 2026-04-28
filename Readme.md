@@ -751,6 +751,6 @@ PublicSubnetIDs = [
 alb_dns_name = "myalbtest-235969896.ap-south-1.elb.amazonaws.com"
 vpc_id = "vpc-08bdbd8e5a807f4ef"
 
-![Website Screenshot](./websiteSS/websiteSSimage.png)
-
+![Website Screenshot](./websiteSS/instance1.png)
+![Website Screenshot](./websiteSS/instance2.png)
 
